@@ -1,1 +1,2 @@
-# vigo
+# Odoo Spain Localization
+
